@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Shiyadh
-- 🌱 I’m currently learning C
-  
+### Hi there 👋,  I'm Shiyadh
+#### Software Engineer | Video Editor
+I'm a Software Engineer who is passionate about 3d Graphics and Games
 
-<!---
-Shiy4dh/Shiy4dh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: C / Python / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
