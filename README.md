@@ -2,9 +2,8 @@
 #### Software Engineer | Video Editor
 I'm a Software Engineer who is passionate about 3d Graphics and Games
 
-Skills: C / Python / HTML / CSS
+Skills: C++ / C / Python 
 
-- 🔭 I’m currently working on this page. 
 
 
 
