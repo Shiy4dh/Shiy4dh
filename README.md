@@ -8,6 +8,6 @@
 ## 🔧 Skills
 
 - **Languages:** C++,Python
-- **Tools & Libraries:** Raylib
+- **Tools & Libraries:** Git,Raylib
 - **Interests:** Graphics Programming, Algorithms, Game Devolopment
 
