@@ -1,12 +1,12 @@
-### Hello,I'm Shiyadh
+# Hi, I'm Shiyadh
 
-## 🌱 About Me
+### 🌱 About Me
 
 - C++ Developer.
 - Interested in Graphics Programming, GameDevelopment and other Low Level Programming.
 - Currently working on Projects and experimenting with code.
 
-## 🔧 Skills
+### 🔧 Skills
 
 - **Languages:** C++,Python
 - **Tools & Libraries:** Git,Raylib
