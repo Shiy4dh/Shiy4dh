@@ -3,7 +3,6 @@
 ### 🌱 About Me
 
 - Software Engineer.
-
 - Currently working on Projects and experimenting with code.
 
 ### 🔧 Skills
