@@ -2,13 +2,13 @@
 
 ### 🌱 About Me
 
-- C++ Developer.
-- Interested in Graphics Programming, GameDevelopment and other Low Level Programming.
+- Software Engineer.
+
 - Currently working on Projects and experimenting with code.
 
 ### 🔧 Skills
 
-- **Languages:** C++,Python
+- **Languages:** Java,C++,Python
 - **Tools & Libraries:** Git,Raylib
 - **Interests:** Graphics Programming, Data Structures and Algorithms, Game Development
 
